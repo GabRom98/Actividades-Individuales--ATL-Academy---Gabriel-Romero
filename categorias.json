@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Salud",
+    "description": "Preguntas relacionadas con el area de Salud."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Musica",
+    "description": "Preguntas relacionadas con Musica."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Programacion",
+    "description": "Preguntas relacionadas con el mundo de la programacion."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Equipos de Futbol",
+    "description": "Preguntas relacionadas con los diferentes equipos de futbol existentes."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Paises",
+    "description": "Preguntas relacionadas con los paises del mundo."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Animales",
+    "description": "Preguntas relacionadas con la diversidad de la fauna."
   }
 ]
