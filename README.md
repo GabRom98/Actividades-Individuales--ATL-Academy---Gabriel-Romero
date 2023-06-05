@@ -1,1 +1,1 @@
-# Actividades-Individuales--ATL-Academy---Gabriel-Romero
+# Actividades Individuales ATL-Academy Gabriel-Romero
