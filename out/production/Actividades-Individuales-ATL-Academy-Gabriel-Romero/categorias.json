@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Salud",
+    "description": "Preguntas relacionadas con el area de Salud."
+  },
+  {
+    "category": "Musica",
+    "description": "Preguntas relacionadas con Musica."
+  },
+  {
+    "category": "Programacion",
+    "description": "Preguntas relacionadas con el mundo de la programacion."
+  },
+  {
+    "category": "Equipos de Futbol",
+    "description": "Preguntas relacionadas con los diferentes equipos de futbol existentes."
+  },
+  {
+    "category": "Paises",
+    "description": "Preguntas relacionadas con los paises del mundo."
+  },
+  {
+    "category": "Animales",
+    "description": "Preguntas relacionadas con la diversidad de la fauna."
+  }
+]
