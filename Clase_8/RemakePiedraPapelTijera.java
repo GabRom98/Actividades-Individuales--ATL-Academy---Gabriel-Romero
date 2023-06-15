@@ -48,22 +48,62 @@ public class RemakePiedraPapelTijera {
         return arrayPiedraPapelTijera[eleccionConsola];
     }
 
-    public static String resultadoJuego(String usuario, String consola) {
-        if (usuario.equalsIgnoreCase("Piedra") && consola.equalsIgnoreCase("Tijera")) {
-            return "El ganador es usted. ¡Felicitaciones!";
-        } else if (usuario.equalsIgnoreCase("Piedra") && consola.equalsIgnoreCase("Papel")) {
+    public static String resultadoJuego(String eleccionUsuario, String eleccionConsola) {
+        if (eleccionUsuario.equalsIgnoreCase("Piedra")) {
+           switch (eleccionConsola){
+               case "Tijera": {
+                   return "El ganador es usted. ¡Felicitaciones!";
+               }
+               case "Papel": {
+                   return "Lo lamento, perdiste. Vuelve a intentarlo.";
+               }
+               case "Piedra": {
+                   return "Haz empatado, casi lo logras. ¡La próxima tal vez ganes!";
+               }
+           }
+        }
+
+        if (eleccionUsuario.equalsIgnoreCase("Papel")) {
+            switch (eleccionConsola){
+                case "Piedra": {
+                    return "El ganador es usted. ¡Felicitaciones!";
+                }
+                case "Tijera": {
+                    return "Lo lamento, perdiste. Vuelve a intentarlo.";
+                }
+                case "Papel": {
+                    return "Haz empatado, casi lo logras. ¡La próxima tal vez ganes!";
+                }
+            }
+        }
+
+        if (eleccionUsuario.equalsIgnoreCase("Tijera")) {
+            switch (eleccionConsola){
+                case "Papel": {
+                    return "El ganador es usted. ¡Felicitaciones!";
+                }
+                case "Piedra": {
+                    return "Lo lamento, perdiste. Vuelve a intentarlo.";
+                }
+                case "Tijera": {
+                    return "Haz empatado, casi lo logras. ¡La próxima tal vez ganes!";
+                }
+            }
+        }
+        /* else if (eleccionUsuario.equalsIgnoreCase("Piedra") && eleccionConsola.equalsIgnoreCase("Papel")) {
             return "Lo lamento, perdiste. Vuelve a intentarlo.";
-        } else if (usuario.equalsIgnoreCase("Papel") && consola.equalsIgnoreCase("Piedra")) {
+        } else if (eleccionUsuario.equalsIgnoreCase("Papel") && eleccionConsola.equalsIgnoreCase("Piedra")) {
             return "El ganador es usted. ¡Felicitaciones!";
-        } else if (usuario.equalsIgnoreCase("Papel") && consola.equalsIgnoreCase("Tijera")) {
+        } else if (eleccionUsuario.equalsIgnoreCase("Papel") && eleccionConsola.equalsIgnoreCase("Tijera")) {
             return "Lo lamento, perdiste. Vuelve a intentarlo.";
-        } else if (usuario.equalsIgnoreCase("Tijera") && consola.equalsIgnoreCase("Papel")) {
-            return "El ganador es usted. ¡Felicitaciones!";
-        } else if (usuario.equalsIgnoreCase("Tijera") && consola.equalsIgnoreCase("Piedra")) {
+        } else if (eleccionUsuario.equalsIgnoreCase("Tijera") && eleccionConsola.equalsIgnoreCase("Papel")) {
+
+        } else if (eleccionUsuario.equalsIgnoreCase("Tijera") && eleccionConsola.equalsIgnoreCase("Piedra")) {
             return "Lo lamento, perdiste. Vuelve a intentarlo.";
         } else {
             return "Haz empatado, casi lo logras. ¡La próxima tal vez ganes!";
-        }
+        }*/
+        return "Ha ocurrido un error";
     }
 
 
