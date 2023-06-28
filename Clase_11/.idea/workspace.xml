@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2625f9da-86a2-4473-9615-46358a353870" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CrudTest/src/main/java/TestCRUD1/CrudTest/controllers/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrudTest/src/main/java/TestCRUD1/CrudTest/models/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/Clase10EjerciciosApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/controllers/TriviaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/models/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/models/ChatGptRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/models/MessageRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/models/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/services/ChatGptClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/java/com/Clase10Ejercicios/Clase10Ejercicios/services/TriviaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/resources/static/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/main/resources/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_10/Clase10Ejercicios/src/test/java/com/Clase10Ejercicios/Clase10Ejercicios/Clase10EjerciciosApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/src/main/java/com/Bootcamp/Bootcamp/BootcampApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/src/main/java/com/Bootcamp/Bootcamp/BuscarCrearBorrar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/src/main/java/com/Bootcamp/Bootcamp/BusquedaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/src/main/java/com/Bootcamp/Bootcamp/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase_9/Bootcamp/src/test/java/com/Bootcamp/Bootcamp/BootcampApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Actividades-Individuales-ATL-Academy-Gabriel-Romero/Clase_8/GeneradorContraseñas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Actividades-Individuales-ATL-Academy-Gabriel-Romero/Clase_8/GeneradorContraseñas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Actividades-Individuales-ATL-Academy-Gabriel-Romero/Clase_8/RemakePiedraPapelTijera.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Actividades-Individuales-ATL-Academy-Gabriel-Romero/Clase_8/RemakePiedraPapelTijera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Actividades-Individuales-ATL-Academy-Gabriel-Romero/Clase_9/BuscadorPersonas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Actividades-Individuales-ATL-Academy-Gabriel-Romero/Clase_9/BuscadorPersonas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Actividades-Individuales-ATL-Academy-Gabriel-Romero/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RqB3T0i3v38BxNEp2nnl9GPeXe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "A:/Escritorio/ATLBOOT/Repo-ActividadesIndividuales/Actividades-Individuales-ATL-Academy-Gabriel-Romero/Clase_11/CrudTest"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2625f9da-86a2-4473-9615-46358a353870" name="Changes" comment="" />
+      <created>1687967531879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687967531879</updated>
+    </task>
+    <servers />
+  </component>
+</project>
